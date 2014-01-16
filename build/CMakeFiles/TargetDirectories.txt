@@ -1,0 +1,16 @@
+/home/eranda/electric_workspace/sandbox/arm_controller/build/CMakeFiles/ROSBUILD_genmsg_cpp.dir
+/home/eranda/electric_workspace/sandbox/arm_controller/build/CMakeFiles/ROSBUILD_genmsg_lisp.dir
+/home/eranda/electric_workspace/sandbox/arm_controller/build/CMakeFiles/ROSBUILD_gensrv_cpp.dir
+/home/eranda/electric_workspace/sandbox/arm_controller/build/CMakeFiles/ROSBUILD_gensrv_lisp.dir
+/home/eranda/electric_workspace/sandbox/arm_controller/build/CMakeFiles/arm_controller.dir
+/home/eranda/electric_workspace/sandbox/arm_controller/build/CMakeFiles/clean-test-results.dir
+/home/eranda/electric_workspace/sandbox/arm_controller/build/CMakeFiles/rosbuild_precompile.dir
+/home/eranda/electric_workspace/sandbox/arm_controller/build/CMakeFiles/rosbuild_premsgsrvgen.dir
+/home/eranda/electric_workspace/sandbox/arm_controller/build/CMakeFiles/rospack_genmsg.dir
+/home/eranda/electric_workspace/sandbox/arm_controller/build/CMakeFiles/rospack_genmsg_libexe.dir
+/home/eranda/electric_workspace/sandbox/arm_controller/build/CMakeFiles/rospack_gensrv.dir
+/home/eranda/electric_workspace/sandbox/arm_controller/build/CMakeFiles/test.dir
+/home/eranda/electric_workspace/sandbox/arm_controller/build/CMakeFiles/test-future.dir
+/home/eranda/electric_workspace/sandbox/arm_controller/build/CMakeFiles/test-results.dir
+/home/eranda/electric_workspace/sandbox/arm_controller/build/CMakeFiles/test-results-run.dir
+/home/eranda/electric_workspace/sandbox/arm_controller/build/CMakeFiles/tests.dir

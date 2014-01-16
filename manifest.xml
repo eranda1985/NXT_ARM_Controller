@@ -1,0 +1,19 @@
+<package>
+  <description brief="arm_controller">
+
+     arm_controller
+
+  </description>
+  <author>eranda</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/arm_controller</url>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+  <depend package="nxt_msgs"/>
+  <depend package="geometry_msgs"/>
+
+</package>
+
+
